@@ -17,6 +17,24 @@
 <A HREF="h:\wallpapers\lc\administration.HTML">administration</A>|
 <A HREF="h:\wallpapers\lc\features & placementdesk.HTML">features & placementdesk</A>|
 <A HREF="h:\wallpapers\lc\transport.HTML">transport</A>|
+<A HREF="h:\wallpapers\lc\Downloads.HTML">Downloads</A>
+
+<A HREF="h:\wallpapers\lc\aboutcolz.HTML">lenora</A>|
+<A HREF="h:\wallpapers\lc\collage.HTML">collage</A>|
+<A HREF="h:\wallpapers\lc\fauculty.HTML">fauculty</A>|
+<A HREF="h:\wallpapers\lc\Infrastructure.HTMl">Infrastructure</A>|
+<A HREF="h:\wallpapers\lc\administration.HTML">administration</A>|
+<A HREF="h:\wallpapers\lc\features & placementdesk.HTML">features & placementdesk</A>|
+<A HREF="h:\wallpapers\lc\transport.HTML">transport</A>|
+<A HREF="h:\wallpapers\lc\Downloads.HTML">Downloads</A>
+
+<A HREF="h:\wallpapers\lc\aboutcolz.HTML">lenora</A>|
+<A HREF="h:\wallpapers\lc\collage.HTML">collage</A>|
+<A HREF="h:\wallpapers\lc\fauculty.HTML">fauculty</A>|
+<A HREF="h:\wallpapers\lc\Infrastructure.HTMl">Infrastructure</A>|
+<A HREF="h:\wallpapers\lc\administration.HTML">administration</A>|
+<A HREF="h:\wallpapers\lc\features & placementdesk.HTML">features & placementdesk</A>|
+<A HREF="h:\wallpapers\lc\transport.HTML">transport</A>|
 <A HREF="h:\wallpapers\lc\Downloads.HTML">Downloads</A>
 </td>
 <td = width="15%">
